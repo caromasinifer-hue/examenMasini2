@@ -3,3 +3,4 @@ Comandos usados en la terminal
 2- touch prog, touch si y touch bbdd: para crear carpetas con esos nombres
 3- rm prog rm is y rm bbdd porque no eran carpetas, sino ficheros
 4- mkdir prog mkdir is y mkdir bbdd para crear las tres carpetas
+cp + ruta absoluta del archivo index.php hacia ruta relativa de consultas.sql en la carpeta si
