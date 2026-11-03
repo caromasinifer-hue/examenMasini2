@@ -1,0 +1,3 @@
+Comandos usados en la terminal
+1- git checkout -b brunch1 : para crear una rama nueva llamada brunch1
+2- touch prog, touch si y touch bbdd: para crear carpetas con esos nombres
